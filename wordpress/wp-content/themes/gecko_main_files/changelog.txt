@@ -1,0 +1,219 @@
+
+==v1.4.5== 05/16/2017
+* Tweak: - Add option to select all portfolio category of portfolio shortcode
+* Tweak: - Add strings of countdown js can be translate
+* Tweak: - Update product image lightbox
+* Tweak: - Add action to improve social network sharing
+* Tweak: - Add option to config number of product related & up-sell display per row
+* Tweak: - Update document and language string
+* Tweak: - Upgrade JAS-Addon to version 1.1.0
+
+* Fix:   - Fix bug Currency switcher compatible with WooCommerce Price Based on Country plugin
+* Fix: 	 - Fix bug product sale countdown doesn’t not work
+* Fix: 	 - Fix bug does not show product variation on mini cart
+* Fix: 	 - Fix bug image thumbnail variation does not change
+* Fix: 	 - Fix woocommerce search on sidebar
+* Fix: 	 - Fix bug product shortcode does not work when set filter is “featured products”
+* Fix: 	 - Fix error message break layout on checkout page
+
+
+
+==v1.4.4== 04/29/2017
+* Tweak: - Enable shortcode display on Shipping & Return Content
+* Tweak: - Add option to exclude subcategories of categories isotope filter
+* Tweak: - Improve thumbnail display of latest blog post
+* Tweak: - Add new shortcode promotion banner & update shortcode blog to config thumbnail size
+* Fix:   - Fix bug product variation image does not change
+* Fix: 	 - Fix bug google map does not responsive
+* Fix: 	 - Fix bug can’t remove product from cart
+* Fix: 	 - Fix bug modal quickview display small
+* Fix: 	 - Fix bug Currency Switcher does not change symbol of Mini Cart
+* Tweak: - Upgrade JAS-Addon to version 1.0.9
+
+==v1.4.3== 04/18/2017
+* Tweak: - Change syntax of CSS3 to compatible with some CSS minify plugins
+* Tweak: - Update function to ease override product category page on child theme
+* Fix: 	 - Fix checkout page style on WooCommerce 3.0.x
+* Fix: 	 - Fix bug non display image on quick view when product has not gallery
+
+==v1.4.2== 04/11/2017
+* Fixed: - Ajax add to cart on WooCommerce 3.0.1
+* Tweak: - Update document
+
+==v1.4.1== 04/08/2017
+* Fixed: - Compatible with WooCommerce 3.0
+* Fixed: - Bug Image zoom function does not work with product variable
+* Tweak: - Upgrade Visual Composer to the latest version (5.1.1)
+* Tweak: - Upgrade JAS-Addon to version 1.0.8 (Compatible with WC 3.0)
+
+
+==v1.4.0== 04/03/2017
+* Tweak  - Update JAS Addon Plugin to version 1.0.7 to fix issue with WPML currenrcy 
+* Tweak  - Fix min-height content of 404 page & search no result page
+* Tweak  - Fix minor issue with flexbox
+* Tweak  - Fix bug YITH filter with load more effect
+* Tweak  - Fix bug layout of password reset page
+* Fixed  - Fix login & register form on mobile
+* Fixed	 - Fix header 3.4 on 1024 screen layout
+* Tweak	 - Exclude shopping cart responsive on table layout
+* Tweak	 - Update document
+* Tweak	 - Update language strings and fix some string can’t translate in javascript file
+* Tweak	 - Add some function to easier custom with child theme
+
+
+==v1.3.5== 03/14/2017
+* Tweak  - Update language string and French, Germany
+* Tweak  - Upgrade Visual Composer version
+* Tweak  - Add option to config post slider on blog post page 
+* Tweak  - Add option to config logo width 
+* Fixed  - Fix color swatch on product listing page
+* Fixed	 - Fix bug WPML currency doesn’t change currency symbol 
+
+==v1.3.4== 03/03/2017
+* Tweak  - Improve quick view modal
+* Tweak  - Improve boxed layout style
+* Tweak	 - Make option to disable ajax add to cart on product detail page
+* Fixed  - Fix bug color swatch doesn’t on quick view
+* Fixed	 - Fix bug portfolio category link
+* Fixed	 - Fix bug content overflow quick view modal when image gallery small
+* Fixed	 - Fix bug sub-menu under product badge
+
+==v1.3.3== 02/22/2017
+* Tweak  - Update JAS Addons plugin
+* Tweak  - Add feature to support microdata (schema)
+* Tweak  - Remove redundant code, improve performance and style
+* Tweak  - Update JAS Addons plugin
+* Fixed	 - Fix bug fatal error with sample data when disable OpenSwatch plugin
+* Fixed	 - Fix bug default variable don’t work with OpenSwatch
+* Fixed	 - Fix bug size guide image setup in Product detail option
+* Fixed	 - Fix bug undefine of setting padding top, padding bottom in page option
+   
+==v1.3.2== 01/31/2017
+* Tweak  - Add option to change page title padding
+* Tweak  - Update OpenSwatch plugin & JAS Addons plugin
+* Fixed	 - Fix google map shortcode when run on HTTPS
+* Fixed	 - Fix bug OpenSwatch plugin on WooCommerce 2.6.12  
+
+==v1.3.1== 01/24/2017
+* Tweak  - Add theme option to config blog’s page title
+* Tweak  - Add custom action to custom quick view
+* Fixed	 - Fix button color when use theme option color scheme 
+* Fixed	 - Fix bug button show video on product detail page  
+* Fixed  - Fix bug “disable add to cart button” 
+
+==v1.3.0== 01/11/2016
+* Tweak  - Update OpenSwatch plugin
+* Tweak	 - Update language strings and add support French and Italian
+* Fixed	 - Fix search result page layout 
+* Fixed	 - Fix bug don’t display image on product with gallery images swatches  
+* Fixed  - Fix header height problem
+* Fixed  - Fix video popup auto switch to youtube app on mobile
+* Fixed  - Fix sold out badge doesn’t show
+* Fixed  - Improve selected style for filter by size
+* Fixed  - Fix dropdown select text color on Window OS
+
+==v1.2.5== 12/12/2016
+* Tweak  - Add new option to enable/disable blog title
+* Tweak	 - Add new option to select sidebar on single blog page
+* Fixed	 - Turn off light box option on product detail page  
+* Fixed  - Header layout 5 calculate wrong size 
+* Fixed  - Retina logo size issue
+
+==v1.2.4== 12/06/2016
+* Tweak  - Add feature to select separate sidebar on separate page
+* Tweak  - Add feature to select separate sidebar on separate product category
+* Tweak  - Add feature to display product listing as 6 columns 
+* Fix    - Fix header layout 3 on screen 1024px and change start point responsive to 1024px
+
+==v1.2.3== 11/29/2016
+* Fixed  - Fix bug content width in theme option
+* Fixed  - Fix home gap above slider
+* Update - Update language string
+* Tweak  - Add option to display content on header top right
+
+==v1.2.2== 11/22/2016
+* Fixed - Fix vertical demo overflow issue
+* Fixed - Currency hover state on mobile
+* Fixed - Fix add to cart button on product detail break layout when string long
+* Fixed - Fix loading wrong image size of color swatch on product listing 
+* Fixed - Fix compatibility with VC 5.0
+* Tweak - Add support German language
+
+==v1.2.1== 11/08/2016
+* Fixed - Fix scroll off header 7 when on Window OS
+* Tweak - Optimize code
+==v1.2.0== 11/01/2016
+* Tweak - Update language string
+* Tweak - Add feature to change theme color
+* Fixed - Fix responsive product single layout 3
+
+==v1.1.8== 10/20/2016
+* Tweak - Add feature to disable page title option on shop page, category page and product page
+* Fixed - Fix hidden extra link “Shipping & Delivery” when doesn’t have content
+* Tweak - Update WooCommerce email style, fix problem with checkout by amazon
+* Tweak - Update JasAddons plugin
+* Tweak - Add feature show portfolio by category
+==v1.1.7== 10/11/2016
+* Fixed - Fix page content of maintenance when user login
+* Fixed - Fix main images of product detail when enable zoom
+* Fixed - Fix header transparent z-index
+==v1.1.6== 09/20/2016
+* Fixed - Fix page content when enable maintenance
+* Tweak - Update document
+* Fixed - Fix horizontal scroll on Safari
+==v1.1.5== 09/12/2016
+* Fixed - Fix redirect link when click button on External/Affiliate product
+* Fixed - Fix problem with footer of woocommerce email transaction
+* Tweak - Remove redundant code and optimize code
+==v1.1.4== 09/05/2016
+* Fixed - Fix theme option to enable/disable currency display on header
+* Fixed - Fix logo display on header transparent
+
+==v1.1.3== 08/31/2016
+* Tweak - Update style for my account page
+* Tweak - Update Ajax add to cart function when run site on sub directory folder
+* Tweak - Remove redundant code and optimize code
+
+==v1.1.2== 08/16/2016
+* Tweak - Update google font for typography
+* Tweak - Add loading effect for product variation when switch attribute
+* Tweak - Update language file
+* Tweak - Add style for product variation when attribute doesn’t exist
+* Tweak - Change blog grid layout config icon in theme option 
+
+
+==v1.1.1== 08/09/2016
+* Fixed - Fixed color swatches on product list when enable flip thumbnail
+* Tweak - Update document
+* Tweak - Update JAS Add-ons Plugin
+
+==v1.1.0== 08/02/2016
+* Tweak - Add feature to enable catalog mode
+* Tweak - Add feature to flip thumbnail on product listing page
+* Tweak - Update shortcode blog to display latest blog post as slider on blog page
+* Tweak - Update related portfolio project
+* Tweak - Update document
+* Fixed - Fix bug blog masonry layout
+* Fixed - Fix bug newsletter form on Window
+
+ 
+==v1.0.5== 07/21/2016
+* Fix	 - responsive of Instagram Feed grid layout.
+* Fix	 - responsive of product listing layout when have sidebar.
+* Fix	 - responsive on mobile 4’.
+* Tweak	 - Improve and optimize code.
+==v1.0.4== 07/07/2016
+* Fix	 - Update cart on when change quantity on shopping cart page.
+* Tweak	 - Remove redundant file and optimize code.
+==v1.0.3== 07/05/2016
+* Fix	- Categories Isotope Filter
+==v1.0.2== 06/30/2016
+* Fix	- Instagram Feed
+* Fix	- Google map API
+* New	- Add demo Split Vertical Slider
+* Tweak - Update 3rd party plugin
+==v1.0.1== 06/17/2016
+* New	- Add features to display attributes on product list
+* New	- Add new furniture demo and sample data
+==v1.0.0== 04/21/2016
+	* initial released 
